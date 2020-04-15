@@ -1,0 +1,4 @@
+<iframe src="https://3g.dxy.cn/newh5/view/pneumonia" frameborder="0" width="100%" height="800px" allowtransparency="yes" style="overflow:hidden;margin: 0; border: none;"></iframe>
+
+<iframe src="https://voice.baidu.com/act/newpneumonia/newpneumonia/" width="100%" height="7000" scrolling="no" frameborder="0">
+</iframe>

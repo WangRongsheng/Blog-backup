@@ -8,9 +8,7 @@ categories: AI
 
 ## 1.数据集及其源代码
 
-[下载](http://pan.sqdxwz.com/?/python/k-means算法/)
-
-<!--more-->
+[下载](https://www.lanzous.com/ib6h54d)
 
 ## 2.代码
 

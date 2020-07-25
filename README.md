@@ -1,12 +1,12 @@
 > 所有内容以三个月为一个周期更新~
 
-# 关于page
+# 关于page-sqdxwz.com
 
-里面包括众多的博客页面
+里面包括sqdxwz.com网站的众多的博客页面
 
-# 关于post
+# 关于post-sqdxwz.com
 
-里面有相对应的博客的文章分类：
+sqdxwz.com里面有相对应的博客的文章分类：
 
 - 基础算法
 - 技术漫谈
@@ -14,10 +14,10 @@
 - 资源汇总
 - 生活随笔
 
-# 关于post-first
+# 关于post-sqdxwz.top-hexo
 
 早期的博客文章
 
-# 关于post-now
+# 关于post-sqdxwz.top-gridea
 
 现在的博客文章
